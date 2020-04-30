@@ -1,0 +1,427 @@
+waiting...
+waiting...
+waiting...
+close
+starting
+stoping
+starting
+waiting...
+waiting...
+tcp
+recv: 3on
+3on
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 39664)>
+waiting...
+tcp
+recv: 3off
+3off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 39670)>
+waiting...
+tcp
+recv: make 15
+make 15
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 39678)>
+waiting...
+waiting...
+stoping
+starting
+waiting...
+waiting...
+waiting...
+close
+stoping
+starting
+waiting...
+waiting...
+tcp
+recv: 4on
+4on
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 39702)>
+waiting...
+tcp
+recv: 1on
+1on
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 57722)>
+waiting...
+tcp
+recv: 1off
+1off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 57734)>
+waiting...
+waiting...
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: 4on
+4on
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 39760)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 39778)>
+waiting...
+waiting...
+close
+stoping
+nnn
+starting
+waiting...
+waiting...
+waiting...
+close
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: 3on
+3on
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 39968)>
+waiting...
+tcp
+recv: 3off
+3off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 39970)>
+waiting...
+tcp
+recv: make 16
+make 16
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 39972)>
+waiting...
+tcp
+recv: 1off
+1off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 40064)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 40066)>
+waiting...
+waiting...
+waiting...
+waiting...
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: make 4
+make 4
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 40656)>
+waiting...
+tcp
+recv: 1off
+1off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 40662)>
+waiting...
+close
+stoping
+nnn
+starting
+waiting...
+waiting...
+waiting...
+close
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: 2on
+2on
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 40876)>
+waiting...
+tcp
+recv: 2off
+2off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 40878)>
+waiting...
+tcp
+recv: make 4
+make 4
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 40880)>
+waiting...
+tcp
+recv: 1off
+1off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 40882)>
+waiting...
+tcp
+recv: 1on
+1on
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 40892)>
+waiting...
+tcp
+recv: 1on
+1on
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 40962)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 40982)>
+waiting...
+waiting...
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: make 4
+make 4
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 58822)>
+waiting...
+tcp
+recv: make 8
+make 8
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 59028)>
+waiting...
+waiting...
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: make 8
+make 8
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 60408)>
+waiting...
+tcp
+recv: 1off
+1off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 60454)>
+waiting...
+tcp
+recv: 1off
+1off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 60492)>
+waiting...
+waiting...
+stoping
+nnn
+starting
+waiting...
+waiting...
+waiting...
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: 2on
+2on
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33262)>
+waiting...
+tcp
+recv: 2off
+2off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33264)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33266)>
+waiting...
+tcp
+recv: make 8
+make 8
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33272)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33280)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33282)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33284)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33286)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33288)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33290)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33292)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33294)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33296)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33298)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33300)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33302)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33304)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33306)>
+waiting...
+tcp
+recv: 4on
+4on
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33308)>
+waiting...
+waiting...
+close
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: 4on
+4on
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33336)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33340)>
+waiting...
+tcp
+recv: make 8
+make 8
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33356)>
+waiting...
+waiting...
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: 4on
+4on
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33366)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33452)>
+waiting...
+waiting...
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: make 8
+make 8
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33504)>
+waiting...
+tcp
+recv: 4off
+4off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33548)>
+waiting...
+waiting...
+close
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: 4on
+4on
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33558)>
+waiting...
+waiting...
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: make 8
+make 8
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33728)>
+waiting...
+tcp
+recv: 1off
+1off
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33770)>
+waiting...
+tcp
+recv: 4on
+4on
+close: <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33774)>
+waiting...
+waiting...
+close
+stoping
+nnn
+starting
+waiting...
+waiting...
+tcp
+recv: make 8
+make 8
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 33920)>
+cold done
+hot done: 8.0
+waiting...
+tcp
+recv: make 16
+make 16
+close: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.7.215', 38999), raddr=('24.228.221.171', 34006)>
+waiting...
+waiting...
+stoping
+nnn
+starting
+starting
+starting

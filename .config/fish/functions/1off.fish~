@@ -1,0 +1,3 @@
+function 1off
+echo 0 > gpio2/value 
+end

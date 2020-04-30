@@ -1,0 +1,7 @@
+function shutdown
+cd /sys/class/gpio/
+echo 2 > unexport 
+echo 3 > unexport
+echo 4 > unexport 
+echo 17 > unexport 
+end

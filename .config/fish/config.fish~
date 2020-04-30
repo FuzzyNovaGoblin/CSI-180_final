@@ -1,0 +1,4 @@
+set EDITOR /usr/bin/emacs
+
+
+~/launch_server.sh
